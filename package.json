@@ -17,11 +17,17 @@
     "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2"
   },
+
+  "homepage": "http://egilr.github.io/zaki",
+
+
   "scripts": {
     "start": "react-scripts start",
-    "build": "REACT_APP_PORT=3000 react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

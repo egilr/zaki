@@ -18,8 +18,6 @@ const GlobalStyle = createGlobalStyle`
 
 function App() {
 
-  App.listen(process.env.PORT || 3000);
-
 
   const [hatches, setHatches] = useState([]);
 
