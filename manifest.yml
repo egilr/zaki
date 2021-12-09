@@ -1,0 +1,13 @@
+applications:
+- name: zaki
+  memory: 1024M
+  disk_quota: 2048M
+  timeout: 120
+  path: build/
+  buildpack: nodejs_buildpack
+  env:
+    fisk: 3000
+ 
+
+
+  
