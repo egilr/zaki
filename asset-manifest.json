@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/zaki/static/js/main.d8ac2d66.chunk.js",
+    "main.js.map": "/zaki/static/js/main.d8ac2d66.chunk.js.map",
+    "runtime-main.js": "/zaki/static/js/runtime-main.5c4dca41.js",
+    "runtime-main.js.map": "/zaki/static/js/runtime-main.5c4dca41.js.map",
+    "static/js/2.c3115e64.chunk.js": "/zaki/static/js/2.c3115e64.chunk.js",
+    "static/js/2.c3115e64.chunk.js.map": "/zaki/static/js/2.c3115e64.chunk.js.map",
+    "static/js/3.84a0209c.chunk.js": "/zaki/static/js/3.84a0209c.chunk.js",
+    "static/js/3.84a0209c.chunk.js.map": "/zaki/static/js/3.84a0209c.chunk.js.map",
+    "index.html": "/zaki/index.html",
+    "static/js/2.c3115e64.chunk.js.LICENSE.txt": "/zaki/static/js/2.c3115e64.chunk.js.LICENSE.txt",
+    "static/media/hatch_backdrop.3341a517.jpg": "/zaki/static/media/hatch_backdrop.3341a517.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c4dca41.js",
+    "static/js/2.c3115e64.chunk.js",
+    "static/js/main.d8ac2d66.chunk.js"
+  ]
+}
